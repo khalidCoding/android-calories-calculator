@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">حساب السعرات الحرارية</string>
+    <string name="label_age">السن</string>
+    <string name="label_weight">الوزن</string>
+    <string name="label_height">الطول</string>
+    <string name="label_btn_calculate">حساب</string>
+    <string name="label_male_rbtn">ذكر</string>
+    <string name="label_female_rbt">أنثى</string>
+    <string name="no_activity_choosed_msg">الرجاء إدخال نوع النشاط</string>
+    <string name="text_example">الذئب الأبيض يجري</string>
+    <string name="label_btn_close">إغلاق</string>
+    <string name="first_msg_bmr">جسمك يحرق: </string>
+    <string name="first_msg_calories_needed">جسمك يحتاج: </string>
+    <string name="last_result_body_1"> كالوري. </string>
+    <string name="first_result_body_2">وتحتاج: </string>
+    <string name="last_result_body_2"> كالوري يوميا. </string>
+    <string-array name="levels_array">
+        <item>إختر النشاط</item>
+        <item>كثير الجلوس</item>
+        <item>قليل الحركة</item>
+        <item>متوسط الحركة</item>
+        <item>كثير الحركة</item>
+        <item>رياضي نشط</item>
+    </string-array>
+
+</resources>
